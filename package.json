@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amex23.github.io/janamir-xavier.github.io/",
+  "homepage": "https://amex23.github.io/my-app",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
@@ -43,12 +43,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://amex23.github.io/janamir-xavier.github.io/"
+    "url": "https://amex23.github.io/my-app"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://amex23.github.io/janamir-xavier.github.io/"
+    "url": "https://amex23.github.io/my-app"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
